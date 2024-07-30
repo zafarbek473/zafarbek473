@@ -1,10 +1,24 @@
 - 👋 Hi, I’m @zafarbek473
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Men bulutni oq deb yuribman,
+Yuragingiz buncha oq ota.
+Qozog'iston ishlab yuribman,
+Dunyo menga o‘yingoh ota.
+
+Qalaysan deb so’raysiz holim,
+Har galgiday ko‘nglim chog’ ota,
+Ko’zmunchoqlar bermasin onam,
+Hudo menga ko’zmunchoq ota.
+
+
+Duolariz asraydi meni,
+Ko’nglim mangu yashar bog’ ota,
+Yolg’onlarga o’rgatmagansiz,
+Haqni izlab dilim tog’ ota.
+
+Qaytkim kelar qishloqqa gohi,
+Buncha og’ir yashamoq ota,
+O’pib yashar oyog‘ingizni,
+Tuproq mendan baxtliroq ota.
 
 <!---
 zafarbek473/zafarbek473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
